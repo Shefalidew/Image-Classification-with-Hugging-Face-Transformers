@@ -1,6 +1,6 @@
 # Image-Classification-with-Hugging-Face-Transformers
 
-This project was created to perform Image Classification while using Huggin Face Transformers for Computer Vision application.
+This project was created to perform Image Classification while using Huggin Face Transformers for Computer Vision applications. The Docker Image for the project is given in : https://github.com/Shefalidew/Image-Classification-with-Hugging-Face-Transformers/pkgs/container/image-classification-with-hugging-face-transformers .
 
 Hugging Face Transformers package is very popular and versatile Python library that provides pre-trained models for a variety of applications in Computer Vision, as well other areas such as Text classification , audio analysis, multimodal analysis (optical character recognition, video classification, visual question answering and many more).
 
